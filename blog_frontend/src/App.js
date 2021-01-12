@@ -3,7 +3,6 @@ import NavBar from "./components/layout/navbar";
 import store from "./store";
 import { Provider } from "react-redux";
 import Dashboard from "./components/posts/dashboard";
-import PostForm from "./components/posts/form";
 import CreateForm from "./components/posts/createForm";
 import UpdateForm from "./components/posts/updateForm";
 

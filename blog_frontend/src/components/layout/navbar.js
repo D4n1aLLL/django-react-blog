@@ -17,12 +17,12 @@ const NavBar = () => {
   const guestLinks = (
     <ul className="navbar-nav ml-auto mt-2 mt-lg-0">
       <li className="nav-item">
-        <a to="/register" className="nav-link">
+        <a href="!/register" className="nav-link">
           Register
         </a>
       </li>
       <li className="nav-item">
-        <a href="/login" className="nav-link">
+        <a href="!/login" className="nav-link">
           Login
         </a>
       </li>
